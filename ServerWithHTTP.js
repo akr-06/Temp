@@ -6,5 +6,6 @@ const server = http.createServer((req,res)=>{
     res.end();
 })
 
+
 //console.log(server);
 server.listen(3000);
